@@ -3,16 +3,15 @@
 </h1>
 
 <p align='center'>
-  I love learning and tackling projects from conception to fruition, but thrive at the intersection of Design and Development. 🦕
+  Product Specialist by day and a passionate nerd at the intersection between 🎨 Design and 💻 Development -by night! 
+</p>
+<p align='center'>
+  I like to dabble with small projects that teaches me something, anything. Right now, I'm learning to work with C# for Oxide plugin development. So far, I'm liking the quick iterative process of building plugins for games like Rust.
 </p>
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:hello@saphant.io'>hello@saphant.io</a>
 </p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/Saphant/Saphant"></a> nerds have been here 🤙
-</p>
-
 
 <!--
 **Saphant/Saphant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
