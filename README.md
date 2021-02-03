@@ -6,7 +6,7 @@
   Product Specialist by day and a passionate nerd at the intersection between 🎨 Design and 💻 Development -by night! 
 </p>
 <p align='center'>
-  I like to dabble with small projects that teaches me something, anything. Right now, I'm learning to work with C# for Oxide plugin development. So far, I'm liking the quick iterative process of building plugins for games like Rust.
+  I like to dabble with small projects that teach me something, anything. Right now, I'm learning to work with C# for Oxide plugin development. So far, I'm liking the quick iterative process of building plugins for games like Rust.
 </p>
 
 <p align='center'>
