@@ -1,16 +1,13 @@
 <h1 align='center'>
-  Hi there 👋 I'm Frank 🤙
+  Hi there, I'm Frank 🤙
 </h1>
 
 <p align='center'>
-  Product Specialist by day and a passionate nerd at the intersection between 🎨 Design and 💻 Development -by night! 
-</p>
-<p align='center'>
-  I like to dabble with small projects that teach me something, anything. Right now, I'm learning to work with C# for Oxide plugin development. So far, I'm liking the quick iterative process of building plugins for games like Rust.
+  I'm a Product Owner @ Worldline, working with our Nordic E-Commerce PSP Products. In my own time, I'd like to work with Product Design & conceptulize digital products for communities, games, or personal projects.
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:hello@saphant.io'>hello@saphant.io</a>
+  📫 How to reach me: <a href='https://dribbble.com/saphant' target="_blank">@Saphant on Dribbble</a>
 </p>
 
 <!--
